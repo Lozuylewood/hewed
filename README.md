@@ -8,4 +8,4 @@ Kürt Samp: {ca9f9d40-8fdb-11eb-ad96-806e6f6e6963}
 Datasını yaydığımız karslı: {0abb0bab-3455-11ed-a755-806e6f6e6963}
 Berg2:{8980fcc0-ac04-11ea-a1c3-806e6f6e6963}
 Lofty: {c48edc70-50b9-11ed-81f7-806e6f6e6963}
-Karı:{63998526-fe18-11ec-a328-806e6f6e6963}
+{63998526-fe18-11ec-a328-806e6f6e6963}
