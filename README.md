@@ -2,7 +2,7 @@ ALLAH: {c1defd8a-0c30-11ed-a944-806e6f6e6963}
 BERG: {b58ca6ag-2f0f-8dd1-148b-76becf97g69c}
 Wopsy: {52ad1524-2f27-11ed-8157-806e6f6e6963}
 Melih: {846ee340-7039-11de-9d20-806e6f6e6963}
-Sailor: {940h5h73-60gd-dh22-3eff-g7f887g0hadd}
+Sailor: {13167207-5b32-11ed-9eb9-806e6f6e6963}
 WoodyKarım: {24a310e1-52bf-11ed-b109-806e6f6e6963}
 Kürt Samp: {ec505014-52b9-11ed-a69b-806e6f6e6963}
 Süleyman: {0abb0bab-3455-11ed-a755-806e6f6e6963}
