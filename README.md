@@ -16,3 +16,4 @@ Fate: {7b6ad85d-b26d-4e63-afe4-617888df358e}
 Judgesreal: {e0ec89c0-2a3a-11eb-ba6e-806e6f6e6963}
 Cahilsarhoş: {58d44568-757c-11ed-8fe9-806e6f6e6963}
 vaby: {ec06f276-79fd-11ec-8b74-806e6f6e6963}
+Azeri göt: {ca2b5605-717d-11ed-bc60-806e6f6e6963}
