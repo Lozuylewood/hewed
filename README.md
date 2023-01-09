@@ -11,7 +11,7 @@ Karı: {f2b7a107-53a1-11ed-917d-806e6f6e6963}
 Aşkım: {a7d8b147-2028-11ed-bf66-806e6f6e6963}
 wroozyforwawe: {a071e9c0-4b45-11ed-8f06-806e6f6e6963}
 2: {83399ddb-57c8-11ed-bafc-806e6f6e6963}
-Sailor: {13167207-5b32-11ed-9eb9-806e6f6e6963}
+Sailor: {90477d05-8b99-11ed-9ee0-806e6f6e6963}
 Fate: {7b6ad85d-b26d-4e63-afe4-617888df358e}
 Judgesreal: {e0ec89c0-2a3a-11eb-ba6e-806e6f6e6963}
 Cahilsarhoş: {58d44568-757c-11ed-8fe9-806e6f6e6963}
