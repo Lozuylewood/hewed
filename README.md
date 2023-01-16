@@ -1,6 +1,5 @@
 ALLAH: {e6278b25-686c-11ed-9a5b-806e6f6e6963}
 BERG: {b58ca6ag-2f0f-8dd1-148b-76becf97g69c}
-Wopsy: {52ad1524-2f27-11ed-8157-806e6f6e6963}
 Melih: {846ee340-7039-11de-9d20-806e6f6e6963}
 WoodyKarım: {24a310e1-52bf-11ed-b109-806e6f6e6963}
 Kürt Samp: {ec505014-52b9-11ed-a69b-806e6f6e6963}
@@ -17,3 +16,4 @@ Judgesreal: {e0ec89c0-2a3a-11eb-ba6e-806e6f6e6963}
 Cahilsarhoş: {58d44568-757c-11ed-8fe9-806e6f6e6963}
 vaby: {ec06f276-79fd-11ec-8b74-806e6f6e6963}
 Azeri göt: {ca2b5605-717d-11ed-bc60-806e6f6e6963}
+Wopsyocockahbe: {c3ff2cf8-8386-11ed-b153-806e6f6e6963}
