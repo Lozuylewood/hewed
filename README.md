@@ -1,7 +1,7 @@
 ALLAH: {e6278b25-686c-11ed-9a5b-806e6f6e6963}
 BERG: {b58ca6ag-2f0f-8dd1-148b-76becf97g69c}
 Melih: {846ee340-7039-11de-9d20-806e6f6e6963}
-WoodyKarım: {24a310e1-52bf-11ed-b109-806e6f6e6963}
+WoodyKarım: {64b48bbe-df36-11ec-974a-806e6f6e6923}
 Kürt Samp: {ec505014-52b9-11ed-a69b-806e6f6e6963}
 Süleyman: {0abb0bab-3455-11ed-a755-806e6f6e6963}
 Recent:{8980fcc0-ac04-11ea-a1c3-806e6f6e6963}
@@ -19,4 +19,5 @@ Azeri göt: {ca2b5605-717d-11ed-bc60-806e6f6e6963}
 Wopsyocockahbe: {e6278b25-686c-12ed-9a5b-806e6f6e6963}
 Fixha: {7704d012-8f56-11ed-a49f-806e6f6e6963}
 Supy: {dcb3e740-b44a-11ec-8be2-806e6f6e6963}
+Taht çok güzel: {60b48dbe-df36-11ec-974a-806e6f6e6963}
 
