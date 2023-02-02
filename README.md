@@ -16,4 +16,4 @@ Azeri göt: {ca2b5605-717d-11ed-bc60-806e6f6e6963}
 Wopsyocockahbe: {e6278b25-686c-12ed-9a5b-806e6f6e6963}
 Supy: {dcb3e740-b44a-11ec-8be2-806e6f6e6963}
 Taht çok güzel: {60b48dbe-df36-11ec-974a-806e6f6e6963}
-
+Fuzzie: Fuzzie
