@@ -1,4 +1,4 @@
-ALLAH: LozuyleFire
+
 Aşkım: nakobababirnumara
 BERG: {b58ca6ag-2f0f-8dd1-148b-76becf97g69c}
 WoodyKarım: {64b48bbe-df36-11ec-974a-806e6f6e6923}
