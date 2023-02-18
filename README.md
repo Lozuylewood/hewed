@@ -10,7 +10,7 @@ Lofty: {c48edc70-50b9-11ed-81f7-806e6f6e6963}
 Karı: {f2b7a107-53a1-11ed-917d-806e6f6e6963}
 Sailor: {8b7dd0e5-9653-11ed-a4d6-806e6f6e6963}
 Fate: {7b6ad85d-b26d-4e63-afe4-617888df358e}
-Judgesreal: {58422540-8347-11ed-b53f-806e6f6e6963}
+Judgesreal: Judges
 Cahilsarhoş: {58d44568-757c-11ed-8fe9-806e6f6e6963}
 vaby: {ec06f276-79fd-11ec-8b74-806e6f6e6963}
 Azeri göt: {ca2b5605-717d-11ed-bc60-806e6f6e6963}
