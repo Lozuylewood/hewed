@@ -19,4 +19,3 @@ Supy: {dcb3e740-b44a-11ec-8be2-806e6f6e6963}
 Taht çok güzel: {60b48dbe-df36-11ec-974a-806e6f6e6963}
 Fuzzie: Fuzzie
 Timur samp vice: {ddba2a79-e7db-11ec-96b9-806e6f6e6963}
-Query mta: {b16e39c0-4bdd-11ed-afaa-806e6f6e6963}
