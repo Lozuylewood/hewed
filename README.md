@@ -21,3 +21,4 @@ Fuzzie: Fuzzie
 Timur samp vice: {ddba2a79-e7db-11ec-96b9-806e6f6e6963}
 mia kha:{370b0900-cda5-11ed-ba51-806e6f6e6963}
 peruklu seski bayan:{30f0b057-40fc-11ed-9f03-806e6f6e6963}
+ayak adam: {846ee340-7039-11de-9d20-806e6f6e6963}
