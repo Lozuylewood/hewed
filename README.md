@@ -14,9 +14,8 @@ Judgesreal: Judges
 Cahilsarhoş: {58d44568-757c-11ed-8fe9-806e6f6e6963}
 vaby: {ec06f276-79fd-11ec-8b74-806e6f6e6963}
 Azeri göt: {ca2b5605-717d-11ed-bc60-806e6f6e6963}
-Wopsyocockahbe: {e6278b25-686c-12ed-9a5b-806e6f6e6963}
+Wopsyocockahbe: {7a47b5eb-e372-11ed-8d6b-806e6f6e6963}
 Supy: {dcb3e740-b44a-11ec-8be2-806e6f6e6963}
 Taht çok güzel: {60b48dbe-df36-11ec-974a-806e6f6e6963}
 Fuzzie: Fuzzie
 Timur samp vice: {ddba2a79-e7db-11ec-96b9-806e6f6e6963}
-Jamaikan: {h587huh0-0191-b3vj-fyfgfdgf-ckea7A15g689}
