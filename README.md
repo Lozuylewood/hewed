@@ -19,5 +19,5 @@ Supy: {dcb3e740-b44a-11ec-8be2-806e6f6e6963}
 Taht çok güzel: {60b48dbe-df36-11ec-974a-806e6f6e6963}
 Fuzzie: Fuzzie
 Timur samp vice: {ddba2a79-e7db-11ec-96b9-806e6f6e6963}
-Bob: {95982742-9340-11ed-ac2f-806e6f6e6963}
+Bob: bob
 Salak awd: {d87df98d-eac0-11ed-b939-806e6f6e6963}
