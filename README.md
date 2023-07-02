@@ -23,4 +23,4 @@ Bob: bob
 Salak awd: {d87df98d-eac0-11ed-b939-806e6f6e6963}
 Judges: {58422540-8347-11ed-b53f-806e6f6e6963}
 seçkin: {ce3402b3-f2ca-11ed-b1cf-806e6f6e6963}
-sagopa:{8bba0e40-dcae-11ed-ac4c-806e6f6e6963}
+sagopa: pasakerim27119
