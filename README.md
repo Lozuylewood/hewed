@@ -26,3 +26,4 @@ seçkin: {ce3402b3-f2ca-11ed-b1cf-806e6f6e6963}
 sagopa: pasakerim27119
 awd: {d87df98d-eac0-11ed-b939-806e6f6e6963}
 ali {55721dc0-b82b-11ed-8287-806e6f6e6963}
+migo: migo
