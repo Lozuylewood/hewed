@@ -1,4 +1,5 @@
 ALLAH: LozuyleFire
+ALLAH2: Lozuylewood2
 Aşkım: nakobababirnumara
 Hellhound: hellhoundingo
 BERG: {b58ca6ag-2f0f-8dd1-148b-76becf97g69c}
