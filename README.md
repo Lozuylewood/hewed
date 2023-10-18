@@ -1,14 +1,14 @@
-ALLAH: LozuyleFire
-ALLAH2: Lozuylewood2
-Aşkım: nakobababirnumara
+God Syria: LozuyleFire
+God Syria2: Lozuylewood2
+Nako: nakobababirnumara
 Hellhound: hellhoundingo
 BERG: {b58ca6ag-2f0f-8dd1-148b-76becf97g69c}
-WoodyKarım: {64b48bbe-df36-11ec-974a-806e6f6e6923}
+Woody: {64b48bbe-df36-11ec-974a-806e6f6e6923}
 Kürt Samp: {ec505014-52b9-11ed-a69b-806e6f6e6963}
 Süleyman: {0abb0bab-3455-11ed-a755-806e6f6e6963}
 Recent:{8980fcc0-ac04-11ea-a1c3-806e6f6e6963}
 Lofty: {c48edc70-50b9-11ed-81f7-806e6f6e6963}
-Karı: {f2b7a107-53a1-11ed-917d-806e6f6e6963}
+yarrak: {f2b7a107-53a1-11ed-917d-806e6f6e6963}
 Sailor: {8b7dd0e5-9653-11ed-a4d6-806e6f6e6963}
 Fate: {7b6ad85d-b26d-4e63-afe4-617888df358e}
 Judgesreal: Judges
