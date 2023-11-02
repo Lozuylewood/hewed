@@ -28,3 +28,4 @@ sagopa: pasakerim27119
 arda vicerp: {8c9d956b-201e-11ee-8085-806e6f6e6963}
 alemci:{4318ab03-8340-11ed-8c3a-806e6f6e6963}
 musab: {832a2889-57d3-11ee-9d5b-806e6f6e6963}
+seçkin : {2a4c61hf-h36h-e6c5-h8cd-7fb7cfcc8hdd}
