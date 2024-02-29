@@ -23,7 +23,6 @@ Timur samp vice: {ddba2a79-e7db-11ec-96b9-806e6f6e6963}
 Bob: bob
 Salak awd: {d87df98d-eac0-11ed-b939-806e6f6e6963}
 Judges: {58422540-8347-11ed-b53f-806e6f6e6963}
-seçkin: {ce3402b3-f2ca-11ed-b1cf-806e6f6e6963}
 sagopa: pasakerim27119
 arda vicerp: {8c9d956b-201e-11ee-8085-806e6f6e6963}
 alemci:{4318ab03-8340-11ed-8c3a-806e6f6e6963}
@@ -32,3 +31,4 @@ seçkin : {2a4c61hf-h36h-e6c5-h8cd-7fb7cfcc8hdd}
 {15aed96d-951b-11ee-a053-806e6f6e6963}
 yılmaz abi: Hükümsüz
 alper: {2f76afde-5161-11ee-9109-806e6f6e6963}
+seçkin: seckin
