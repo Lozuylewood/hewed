@@ -32,3 +32,4 @@ seçkin : {2a4c61hf-h36h-e6c5-h8cd-7fb7cfcc8hdd}
 yılmaz abi: Hükümsüz
 alper: {2f76afde-5161-11ee-9109-806e6f6e6963}
 seçkin: seckin
+duhix: {b5eabf19-3bf0-11ee-b47a-806e6f6e6963}
