@@ -33,3 +33,5 @@ yılmaz abi: Hükümsüz
 alper: {2f76afde-5161-11ee-9109-806e6f6e6963}
 seçkin: seckin
 duhix: {b5eabf19-3bf0-11ee-b47a-806e6f6e6963}
+ömer: {a477cbef-7719-11ed-a44b-806e6f6e6963}
+
