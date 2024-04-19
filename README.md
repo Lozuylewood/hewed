@@ -35,5 +35,5 @@ seçkin: seckin
 duhix: {b5eabf19-3bf0-11ee-b47a-806e6f6e6963}
 ömer: {a477cbef-7719-11ed-a44b-806e6f6e6963}
 ahmet: {b95764b6-ba40-11ee-98cb-806e6f6e6963}
-
+süleymanis: {3e69294f-d739-11ee-a00c-806e6f6e6963}
 
