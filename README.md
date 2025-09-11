@@ -35,3 +35,4 @@ telo: tiktokbomba
 swozzy: anambabam
 azad: {d1a64214-80db-11ef-81b3-806e6f6e6963}
 çilekeş: {47f95c44-705c-11f0-bdfc-806e6f6e6963}
+calle kardeşim: {bc369976-8d10-11f0-b68f-806e6f6e6963}
