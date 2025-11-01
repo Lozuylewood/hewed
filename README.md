@@ -1,4 +1,4 @@
-God Syria: Adssd
+God Syria: LozuyleFire
 God Syria2: Lozuylewood2
 Nako: nakobababirnumara
 Hellhound: hellhoundingo
