@@ -35,6 +35,6 @@ telo: tiktokbomba
 kofik: {c9d66bbb-d90f-11ef-8b6d-806e6f6e6963}
 swozzy: anambabam
 azad: {d1a64214-80db-11ef-81b3-806e6f6e6963}
-çilekeş: {930a77b3-b9bf-11f0-ac4a-806e6f6e6963}
+çilekeş: {7307b575-bb4b-11f0-af2b-806e6f6e6963}
 calle kardeşim: {bc369976-8d10-11f0-b68f-806e6f6e6963}
 hellhound kardeşim: {a18aef8a-2c92-11ea-a0b5-806e6f6e6963}
