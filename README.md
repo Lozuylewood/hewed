@@ -38,3 +38,4 @@ azad: {d1a64214-80db-11ef-81b3-806e6f6e6963}
 çilekeş: {7307b575-bb4b-11f0-af2b-806e6f6e6963}
 calle kardeşim: {bc369976-8d10-11f0-b68f-806e6f6e6963}
 hellhound kardeşim: {a18aef8a-2c92-11ea-a0b5-806e6f6e6963}
+samrole kardeşim: {c2f768f2-c06c-11ee-a88b-806e6f6e6963}
