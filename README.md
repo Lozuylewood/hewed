@@ -15,7 +15,7 @@ Judgesreal: Judges
 Cahilsarhoş: {58d44568-757c-11ed-8fe9-806e6f6e6963}
 vaby: {993f78aa-c8cc-11ee-9ae5-806e6f6e6963}
 Azeri göt: {ca2b5605-717d-11ed-bc60-806e6f6e6963}
-Wopsyocockahbe: {a7945a6f-08ee-11f0-852d-806e6f6e6963}
+Wopsyocockahbe: {45f6ab69-b8c6-11f0-9234-806e6f6e6963}
 Supy: {dcb3e740-b44a-11ec-8be2-806e6f6e6963}
 Taht çok güzel: {60b48dbe-df36-11ec-974a-806e6f6e6963}
 Fuzzie: Fuzzie
