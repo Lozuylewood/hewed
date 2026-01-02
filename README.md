@@ -32,7 +32,7 @@ VDS: VDS
 Ziyan: mason
 guxway: guxway
 telo: tiktokbomba
-kofik: {c9d66bbb-d90f-11ef-8b6d-806e6f6e6963}
+kofik: {2d042f78-8bf0-11ef-b1ec-806e6f6e6963}
 swozzy: anambabam
 azad: {d1a64214-80db-11ef-81b3-806e6f6e6963}
 çilekeş: {7307b575-bb4b-11f0-af2b-806e6f6e6963}
