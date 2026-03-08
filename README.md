@@ -34,3 +34,4 @@ swozzy: anambabam
 hellhound kardeşim: {a18aef8a-2c92-11ea-a0b5-806e6f6e6963}
 samrole kardeşim: {c2f768f2-c06c-11ee-a88b-806e6f6e6963}
 orospunun çocu: {edeb7031-d792-11f0-ad3d-806e6f6e6963}
+rakun: {d78f73d3-894e-11ed-906b-806e6f6e6963}
