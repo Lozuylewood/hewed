@@ -33,6 +33,7 @@ swozzy: anambabam
 çilekeş: {7307b575-bb4b-11f0-af2b-806e6f6e6963}
 hellhound kardeşim: {a18aef8a-2c92-11ea-a0b5-806e6f6e6963}
 samrole kardeşim: {c2f768f2-c06c-11ee-a88b-806e6f6e6963}
+scarface ali: {a2ee435c-3a24-11f0-b5c3-806e6f6e6963}
 orospunun çocu: {edeb7031-d792-11f0-ad3d-806e6f6e6963}
 rakun: {d78f73d3-894e-11ed-906b-806e6f6e6963}
 maymun: {d1a64214-80db-11ef-81b3-806e6f6e6963}
