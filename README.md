@@ -37,3 +37,4 @@ orospunun çocu: {edeb7031-d792-11f0-ad3d-806e6f6e6963}
 rakun: {d78f73d3-894e-11ed-906b-806e6f6e6963}
 maymun: {d1a64214-80db-11ef-81b3-806e6f6e6963}
 veled2: {aa4e2fd0-0142-11f0-9509-806e6f6e6963}
+swozzy: anambabam
