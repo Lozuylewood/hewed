@@ -29,7 +29,6 @@ seçkin: seckin
 ahmet: {b95764b6-ba40-11ee-98cb-806e6f6e6963}
 süleymanis: {3e69294f-d739-11ee-a00c-806e6f6e6963}
 guxway: guxway
-swozzy: anambabam
 çilekeş: {7307b575-bb4b-11f0-af2b-806e6f6e6963}
 hellhound kardeşim: {a18aef8a-2c92-11ea-a0b5-806e6f6e6963}
 samrole kardeşim: {c2f768f2-c06c-11ee-a88b-806e6f6e6963}
