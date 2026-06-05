@@ -38,3 +38,4 @@ rakun: {d78f73d3-894e-11ed-906b-806e6f6e6963}
 maymun: {d1a64214-80db-11ef-81b3-806e6f6e6963}
 veled2: {aa4e2fd0-0142-11f0-9509-806e6f6e6963}
 swozzy: anambabam
+-kun: {45cd0727-f85f-11f0-87c6-806e6f6e6963}
